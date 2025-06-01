@@ -13,9 +13,9 @@ A simple web-based currency converter built using **HTML**, **CSS**, and **JavaS
 ![Currency Converter Screenshot 1](currency2.png)
 ![Currency Converter Screenshot 2](currency1.png)
 
-## Author
-Gayathri G
-🔗 GitHub: @GAYATHRI1006  
+##  Developed By
+**Gayathri G**  
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ## Features
 
